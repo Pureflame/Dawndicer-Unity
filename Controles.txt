@@ -1,0 +1,23 @@
+
+//////////////////////////////////////
+///////// ACCIONES MENU //////////////
+//////////////////////////////////////
+
+Flechas Arriba y Abajo = Cambiar botón.
+Z = Pulsar botón.
+
+//////////////////////////////////////
+/////// ACCIONES JUGADOR /////////////
+//////////////////////////////////////
+
+Flechas Izquierda y Derecha = Moverse (tanto en tierra como aire).
+Flecha Abajo = Bajar plataforma.
+
+Z = Saltar.
+X = Atacar (tanto en tierra como aire).
+E = Hablar con NPCs
+
+C = Recoger dado.
+Espacio = Cambiar dado principal por el dado secundario.
+
+Escape = Entrar o salir de la pausa.
